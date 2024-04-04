@@ -1,4 +1,4 @@
-//Q . sum tow number with class and object
+//Q . sum two number with class and object
 
 //import packages
 import java.util.*;
