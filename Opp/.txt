@@ -1,0 +1,4 @@
+Q.why opp ?
+ans - for achiving moduler programming .
+Q. what is module ?
+ans - that file and folder which contain code for doing spesific task.
