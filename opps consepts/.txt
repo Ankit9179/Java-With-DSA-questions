@@ -2,3 +2,12 @@ Q.why opp ?
 ans - for achiving moduler programming .
 Q. what is module ?
 ans - that file and folder which contain code for doing spesific task.
+
+note - use of static variable in program when you use static keyword before a variable deceleration then you will be use the  variable anywhare where you want to use.
+
+ // access modifier 
+type - 4 
+1.private
+2.protectd
+3.default
+4.public
