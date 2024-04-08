@@ -6,7 +6,7 @@ public class Student {
         int rolNum = 59;
     }
 
-    // function
+    // getter function
     public static void printfunc(int x) {
         System.out.println(x);
         return;
