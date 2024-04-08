@@ -2,6 +2,7 @@ public class StudentDetails {
     // class
     String name = "ankit";
     private int rol = 59;
+    static int numberOfStudent;
 
     // getter function
     public int getRol() {
@@ -21,6 +22,7 @@ public class StudentDetails {
     public StudentDetails(String naam, int rn) {
         name = naam;
         rol = rn;
+        numberOfStudent++;
     }
 
 }
