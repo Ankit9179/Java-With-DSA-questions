@@ -8,9 +8,13 @@ public class StudentDetails {
         return rol;
     }
 
-    // setter function
-    public void setRol(int rNum) {
-        rol = rNum;
+    // // setter function
+    // public void setRol(int rNum) {
+    // rol = rNum;
+    // }
+    // setter function with this keyword
+    public void setRol(int rol) {
+        this.rol = rol;
     }
 
 }
