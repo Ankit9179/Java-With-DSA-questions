@@ -17,4 +17,10 @@ public class StudentDetails {
         this.rol = rol;
     }
 
+    // constructor
+    public StudentDetails(String naam, int rn) {
+        name = naam;
+        rol = rn;
+    }
+
 }
