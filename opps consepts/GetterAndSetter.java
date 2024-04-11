@@ -12,8 +12,8 @@ public class GetterAndSetter {
         StudentDetails obj = new StudentDetails("amiii", 55);
         System.out.println(obj.name);
         System.out.println(obj.getRol());
-        System.out.println(obj.numberOfStudent);
-        StudentDetails obj1 = new StudentDetails("ram", 55); // testing static keyword
-        System.out.println(obj1.numberOfStudent); // testing static keyword
+        System.out.println(obj.numberOfStudent); // output 1 // testing static keyword
+        StudentDetails obj1 = new StudentDetails("ram", 55);
+        System.out.println(obj1.numberOfStudent); // testing static keyword output 2
     }
 }

@@ -14,3 +14,11 @@ type - 4
 
 Q . whta is constructor 
 ans - A constructor in Java is a special method that is used to initialize objects. The constructor is called when an object of a class is created. It can be used to set initial values for object attributes
+
+Q. what is inharitance 
+ans- when a sub class extands features of super class this method is called inharitance,
+type - there are 4 type of inharitance 
+1.multilevel 
+2.multiple
+3.simple
+4.hierarichial
