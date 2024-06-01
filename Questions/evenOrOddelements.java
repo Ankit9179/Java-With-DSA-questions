@@ -6,9 +6,8 @@ public class evenOrOddelements {
         int n = arr.length; // it will return 5
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
-                int temp;
-                temp = i + j / 2; // even or odd
-                if (temp == 0) {
+                int sum = arr[i] + arr[j];
+                if (sum % 2 == 0) {
                     System.out.println(arr[i] + "+" + arr[j] + " = even");
                 } else {
                     System.out.println(arr[i] + "+" + arr[j] + " = odd");
